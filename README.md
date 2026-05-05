@@ -11,21 +11,15 @@ This repository contains multiple assignments covering core concepts in:
 
 ---
 
-## 🧩 Assignment 1: Matrix & Pointer Operations
-
-* In-place matrix rotation (90° clockwise)
-* Pointer-based traversal (1D simulation of 2D array)
-* Diagonal transformation using bitwise operations
-
----
-
-## 🧩 Assignment 2: Strings & Arrays
+## 🧩 Assignment 1:
 
 ### 🔹 Cyclic Substring Maximum Sum
 
 * Sliding window technique
 * Unique character constraint
 * Cyclic handling using string duplication
+
+## 🧩 Assignment 2:
 
 ### 🔹 Array Transformation Cost Minimization
 
